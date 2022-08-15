@@ -1,0 +1,21 @@
+.DS_Store
+**/*.swp
+**/.env
+.azwb
+**/*.exe
+.terraform.lock.hcl
+**/local.conf
+metals.*
+**/null/
+**/target/
+.vscode
+.idea
+**/sbt.json
+**/*.bkp
+**/*.dtmp
+**/.bloop/
+**/.metals/
+**/PowerShell 7.2.5/
+**/project/
+!**/project/build.properties
+!**/project/plugins.sbt
